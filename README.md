@@ -35,8 +35,8 @@ Important:
 
 What's Included:
 
- `index.html`: The main HTML file for the login page.
- `style.css`: The CSS file that styles the login page elements.
+ `website1.html`: The main HTML file for the login page.
+ `style1.css`: The CSS file that styles the login page elements.
  `README.md`: This file (you are currently reading it!) provides an overview of the project.
 
 Description:
@@ -46,6 +46,6 @@ This clone features a basic layout with an email/username input field, a passwor
 Instructions:
 
 1. Clone the repository.
-2. Open the `index.html` file in a web browser to view the login page clone.
+2. Open the `website1.html` file in a web browser to view the login page clone.
 
 Note: This is a basic example. You can customize the description to fit the specific details of your login page clone.
